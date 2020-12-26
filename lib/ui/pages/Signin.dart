@@ -51,7 +51,7 @@ class SigninPage extends StatelessWidget {
               //ToDo: Go TO Stores.dart
             },
             child: MyCircleCard(
-              picPath: 'lib/assets/pic/shop.svg',
+              picPath: 'assets/pic/shop.svg',
               title: 'المتاجر',
             ),
           ),
@@ -63,7 +63,7 @@ class SigninPage extends StatelessWidget {
               //ToDo: Go TO Customers.dart
             },
             child: MyCircleCard(
-              picPath: 'lib/assets/pic/users.svg',
+              picPath: 'assets/pic/users.svg',
               title: 'العملاء',
             ),
           ),

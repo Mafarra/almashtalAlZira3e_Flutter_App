@@ -24,7 +24,7 @@ class AboutUs extends StatelessWidget {
           ),
           Container(
             child: SvgPicture.asset(
-              'lib/assets/pic/logo.svg',
+              'assets/pic/logo.svg',
               alignment: Alignment.center,
               width: 150.w,
               height: 250.h,

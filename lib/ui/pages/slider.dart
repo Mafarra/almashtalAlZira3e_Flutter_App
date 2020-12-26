@@ -43,7 +43,7 @@ class _HomePageState extends State<SliderPage> {
                     margin:
                         EdgeInsets.symmetric(horizontal: 5.w, vertical: 0.h),
                     child: Image.asset(
-                      'lib/assets/pic/mashtal${index + 1}.jpg',
+                      'assets/pic/mashtal${index + 1}.jpg',
                       fit: BoxFit.cover,
                     ),
                   ),

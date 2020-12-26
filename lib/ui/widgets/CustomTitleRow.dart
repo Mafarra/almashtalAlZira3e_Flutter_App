@@ -32,7 +32,6 @@ class CustomRow extends StatelessWidget {
               ),
               Text(
                 text2,
-                // 'يمكنك تسجيل العميل هنا',
                 style: smallblack38Text,
               ),
             ],

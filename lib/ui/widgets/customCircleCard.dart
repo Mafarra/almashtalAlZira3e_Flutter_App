@@ -21,17 +21,13 @@ class MyCircleCard extends StatelessWidget {
           children: [
             SvgPicture.asset(
               picPath,
-              //'lib/assets/pic/shop.svg',
               alignment: Alignment.center,
-              // width: 50.w,
-              // height: 50.h,
             ),
             SizedBox(
               height: 5.h,
             ),
             Text(
               title,
-              //  'المتاجر',
               style: blackTextSize18,
             ),
           ],

@@ -26,7 +26,6 @@ class CallUs extends StatelessWidget {
                 height: 50.h,
               ),
               Column(
-                // mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: [
                   MyTextField(
                     lable: 'البريد الإلكتروني',

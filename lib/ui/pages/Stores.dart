@@ -28,7 +28,7 @@ class Stores extends StatelessWidget {
                   height: 30.h,
                 ),
                 CustomRow(
-                  svgPath: 'lib/assets/pic/shop.svg',
+                  svgPath: 'assets/pic/shop.svg',
                   text1: 'تسجيل المتاجر ',
                   text2: 'يمكنك تسجيل متجرك هنا',
                 ),
@@ -75,7 +75,7 @@ class Stores extends StatelessWidget {
                     SizedBox(
                       width: 13.w,
                     ),
-                    SvgPicture.asset('lib/assets/pic/location.svg'),
+                    SvgPicture.asset('assets/pic/location.svg'),
                     SizedBox(
                       width: 30.w,
                     ),

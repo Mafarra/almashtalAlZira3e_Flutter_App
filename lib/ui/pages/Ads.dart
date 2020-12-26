@@ -55,17 +55,17 @@ class AdsPage extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       SvgPicture.asset(
-                        'lib/assets/pic/whatsappIcon.svg',
+                        'assets/pic/whatsappIcon.svg',
                         width: 25.w,
                         height: 25.h,
                       ),
                       SvgPicture.asset(
-                        'lib/assets/pic/phone-receiverIcon.svg',
+                        'assets/pic/phone-receiverIcon.svg',
                         width: 25.w,
                         height: 25.h,
                       ),
                       SvgPicture.asset(
-                        'lib/assets/pic/worldIcon.svg',
+                        'assets/pic/worldIcon.svg',
                         width: 25.w,
                         height: 25.h,
                       ),

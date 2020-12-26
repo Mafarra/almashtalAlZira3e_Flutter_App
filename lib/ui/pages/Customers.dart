@@ -25,7 +25,7 @@ class Customers extends StatelessWidget {
                 height: 30.h,
               ),
               CustomRow(
-                svgPath: 'lib/assets/pic/users.svg',
+                svgPath: 'assets/pic/users.svg',
                 text1: 'تسجيل العملاء ',
                 text2: 'يمكنك تسجيل العميل هنا',
               ),

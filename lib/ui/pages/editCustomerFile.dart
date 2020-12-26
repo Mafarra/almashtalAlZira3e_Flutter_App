@@ -93,7 +93,6 @@ class EditCustomerProfile extends StatelessWidget {
                   width: 310.w,
                   height: 200.h,
                   child: Column(
-                    //   mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
                       MyTextField(lable: '0394 22 34'),
                       SizedBox(
