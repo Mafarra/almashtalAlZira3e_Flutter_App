@@ -32,7 +32,7 @@ class MyHomePage extends StatelessWidget {
         width: 360.0, height: 640.0, allowFontScaling: true);
     return Scaffold(
       body: Center(
-        child: Container(),
+        child: SizedBox(child: Container()),
       ),
     );
   }
